@@ -1,0 +1,18 @@
+# --- Private strategy brain: never publish ---
+init/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Go ---
+/engine-go/bin/
+*.exe
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
