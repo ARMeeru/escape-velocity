@@ -1,3 +1,5 @@
+> **Archived (September 2026).** Two scaffold commits for a computational-physics hobby track (July 2026): a plan and zero shipped sprints. The roadmap was gitignored, so the repo never even contained it. If the idea revives, it starts somewhere the plan is committed.
+
 # Computational Physics — Workspace
 
 An intellectual-hobby track: rebuild math and physics by **building things that move on screen**. Not a career switch — a boredom-killer that keeps the brain sharp for the paycheck work. Full plan lives in `init/Computational-Physics-Roadmap.md` (private, gitignored).
